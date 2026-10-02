@@ -1,7 +1,8 @@
-
+```toc
+```
 📖 Plantilla general de especie
 
-1. 🧬 Identificación
+# 1. 🧬 Identificación
 
 ¿Qué es?
 La información básica que permite identificar a la especie.
@@ -16,7 +17,7 @@ Estado: si la especie es común, rara, amenazada, extinta, desconocida, etc.
 
 ---
 
-2. 🌍 Origen y Hábitat
+# 2. 🌍 Origen y Hábitat
 
 ¿Dónde vive y qué ambiente necesita?
 
@@ -40,7 +41,7 @@ No significa necesariamente que tengas que hacer un mapa.
 
 ---
 
-3. 🧍 Apariencia y Anatomía
+# 3. 🧍 Apariencia y Anatomía
 
 ¿Cómo es físicamente?
 
@@ -68,7 +69,7 @@ Aquí describes cómo se ve, no necesariamente qué puede hacer.
 
 ---
 
-4. 🧠 Inteligencia y Comportamiento
+# 4. 🧠 Inteligencia y Comportamiento
 
 ¿Cómo piensa y cómo se comporta?
 
@@ -94,7 +95,7 @@ Esto sirve especialmente para diferenciar un animal inteligente de una criatura 
 
 ---
 
-5. 🧬 Biología
+# 5. 🧬 Biología
 
 ¿Cómo funciona su organismo?
 
@@ -154,7 +155,7 @@ Si no tiene reproducción sexual, también se explica aquí.
 
 ---
 
-7. 🍖 Alimentación
+# 7. 🍖 Alimentación
 
 ¿Qué come y cómo consigue alimento?
 
@@ -180,7 +181,7 @@ Comportamientos relacionados con la alimentación.
 
 ---
 
-8. ⚔️ Capacidades
+# 8. ⚔️ Capacidades
 
 ¿Qué puede hacer naturalmente?
 
@@ -212,7 +213,7 @@ La diferencia con Combate es que aquí describes la capacidad, mientras que desp
 
 ---
 
-9. 🛡️ Combate
+# 9. 🛡️ Combate
 
 ¿Cómo pelea?
 
@@ -240,7 +241,7 @@ Defensa del territorio.
 
 ---
 
-10. 🧪 Características especiales
+# 10. 🧪 Características especiales
 
 ¿Posee algo que merezca una sección propia?
 
@@ -272,7 +273,7 @@ No todas las especies necesitan esta sección.
 
 ---
 
-11. 🏘️ Sociedad
+# 11. 🏘️ Sociedad
 
 ¿Cómo viven entre ellos?
 
@@ -302,7 +303,7 @@ Aquí explicarías, por ejemplo, la diferencia entre las colonias comunitarias y
 
 ---
 
-12. 🏛️ Cultura
+# 12. 🏛️ Cultura
 
 ¿Qué han creado y qué consideran importante?
 
@@ -336,7 +337,7 @@ Esta sección es especialmente útil para que la especie no se sienta simplement
 
 ---
 
-13. 💰 Economía y Recursos
+# 13. 💰 Economía y Recursos
 
 ¿Cómo obtienen y utilizan sus recursos?
 
@@ -364,7 +365,7 @@ Productos que venden.
 
 ---
 
-14. 🌐 Relación con otras especies
+# 14. 🌐 Relación con otras especies
 
 ¿Cómo se relacionan con el resto de Kepler?
 
@@ -390,7 +391,7 @@ También puedes explicar cómo las demás especies perciben a esta especie.
 
 ---
 
-15. 🗺️ Variaciones
+# 15. 🗺️ Variaciones
 
 ¿Existen diferentes tipos dentro de la misma especie?
 
@@ -414,7 +415,7 @@ Los Arakh’sol, Arakh’rei y Arakh’vel entrarían aquí, aunque en su caso s
 
 ---
 
-16. ⚠️ Debilidades y limitaciones
+# 16. ⚠️ Debilidades y limitaciones
 
 ¿Qué cosas pueden perjudicar a la especie?
 
@@ -440,7 +441,7 @@ Esta sección es importante para evitar que una especie parezca capaz de hacerlo
 
 ---
 
-17. 📜 Historia
+# 17. 📜 Historia
 
 ¿Qué le ha ocurrido a la especie?
 
@@ -466,7 +467,7 @@ No es lo mismo que Origen y Hábitat: origen explica de dónde surge y dónde vi
 
 ---
 
-18. 👁️ Percepción
+# 18. 👁️ Percepción
 
 ¿Cómo es vista por los demás?
 
@@ -494,16 +495,9 @@ Esto puede ser muy útil para tu bestiario porque el explorador podría registra
 
 ---
 
-19. 📌 Datos curiosos
+# 19. 📌 Datos curiosos
 
 Información extra de las bestias 
 
 ---
 
-En resumen
-
-La plantilla completa sería:
-
-Identificación → Hábitat → Anatomía → Inteligencia → Biología → Reproducción → Alimentación → Capacidades → Combate → Características especiales → Sociedad → Cultura → Economía → Relaciones → Variaciones → Debilidades → Historia → Percepción → Curiosidades 
-
-Y no tienes que rellenar las 19 categorías siempre. La plantilla es un marco, no una obligación. Una criatura pequeña podría necesitar 7 apartados, mientras que una civilización compleja podría necesitar los 19.
