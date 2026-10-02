@@ -1,7 +1,10 @@
+```toc
+```
+(Hoja desactualizada, tengo que actualizarlo según el nuevo Lore escrito, tengo hambre)
 
-**🕷️ ESPECIE: ARAKH’VEI**
+# 🕷️ ESPECIE: ARAKH’VEI
 
-Clasificación general
+## Clasificación general
 
 Arakh’vei es el nombre de la especie arácnida inteligente de Kepler.
 
@@ -19,7 +22,7 @@ Las tres formas forman parte de la misma especie y dependen unas de otras para m
 
 ---
 
-**🧩 ORIGEN Y HÁBITAT**
+# 🧩 ORIGEN Y HÁBITAT
 
 Los Arakh’vei habitan fuera de las murallas, principalmente en las zonas más oscuras de los bosques montanos y regiones donde la luz solar es limitada.
 
@@ -59,7 +62,7 @@ Algunas colonias cercanas a la superficie también utilizan la seda para constru
 
 ---
 
-🧠  **INTELIGENCIA Y SOCIEDAD**
+# 🧠  INTELIGENCIA Y SOCIEDAD
 
 Los Arakh’vei poseen una inteligencia comparable a la humana.
 
@@ -97,7 +100,7 @@ Existen principalmente dos modelos sociales.
 
 ---
 
-🏘️ **COMUNIDADES AUTÓNOMAS**
+# 🏘️ COMUNIDADES AUTÓNOMAS
 
 Son colonias sin una figura de autoridad absoluta.
 
@@ -125,7 +128,7 @@ Estas comunidades normalmente intentan evitar conflictos innecesarios.
 
 ---
 
-👑 **MONARQUÍAS ARÁCNIDAS**
+# 👑 MONARQUÍAS ARÁCNIDAS
 
 Algunas colonias mantienen sistemas monárquicos.
 
@@ -155,7 +158,7 @@ Las colonias monárquicas tienden a ser mucho más peligrosas para las demás es
 
 ---
 
-🌱 **ALIMENTACIÓN**
+# 🌱 ALIMENTACIÓN
 
 Los Arakh’vei son omnívoros.
 
@@ -200,12 +203,12 @@ Colonias particularmente hostiles.
 
 ---
 
-🕷️ **LAS TRES FORMAS**
+# 🕷️ LAS TRES FORMAS
 
 
 ---
 
-🕷️ **ARAKH’SOL — FORMA PURA**
+## 🕷️ ARAKH’SOL — FORMA PURA
 
 Son los Arakh’vei con cuerpo completamente arácnido.
 
@@ -228,7 +231,7 @@ Características
 
 Los colmillos están compuestos por quitina y proteínas endurecidas, alcanzando una dureza suficiente para romper roca y materiales resistentes.
 
-**Biología**
+### Biología
 
 Existen machos y hembras.
 
@@ -251,7 +254,7 @@ Son especialistas en:
 —Defensa física.
 
 
-**Seda y veneno**
+### Seda y veneno
 
 Los Arakh’sol:
 
@@ -263,7 +266,7 @@ No poseen veneno.
 
 ---
 
-⚰️ **LOS COLMILLOS DE LOS ARAKH’SOL**
+### ⚰️ LOS COLMILLOS DE LOS ARAKH’SOL
 
 Cuando un Arakh’sol muere, sus colmillos no son simplemente descartados.
 
@@ -300,7 +303,7 @@ Las armas terminan siendo entregadas principalmente a Arakh’vel entrenados.
 
 ---
 
-**🕸️ ARAKH’REI — FORMA MEDIA**
+## 🕸️ ARAKH’REI — FORMA MEDIA
 
 Son individuos cuyo cuerpo posee una mitad superior humanoide y una mitad inferior completamente arácnida.
 
@@ -350,7 +353,7 @@ Las Arakh’rei pueden encargarse de:
 
 También sacrifican animales utilizando su veneno de manera rápida para evitar sufrimiento innecesario.
 
-**Reina**
+### Reina
 
 En las colonias monárquicas, una Arakh’rei puede convertirse en reina.
 
@@ -359,7 +362,7 @@ Sin embargo, la Gran Madre Seda tiene un papel relacionado con el reconocimiento
 
 ---
 
-🕷️ **ARAKH’VEL — FORMA VELADA**
+## 🕷️ ARAKH’VEL — FORMA VELADA
 
 Son la forma más humanoide de la especie.
 
@@ -383,7 +386,7 @@ Aunque producen seda, su cantidad es muy limitada comparada con las Arakh’rei.
 
 ---
 
-**🧬 BIOLOGÍA DE LOS ARAKH’VEL**
+# 🧬 BIOLOGÍA DE LOS ARAKH’VEL
 
 Los Arakh’vel son biológicamente diferentes de los Arakh’sol y Arakh’rei.
 
@@ -403,7 +406,7 @@ Anatomía humanoide.
 
 ---
 
-🧬 **REPRODUCCIÓN**
+# 🧬 REPRODUCCIÓN
 
 Arakh’vel + Arakh’vel
 
@@ -440,7 +443,7 @@ Esto evita que un Arakh’sol pueda reproducirse con una Arakh’vel, pese a per
 
 ---
 
-🥚 **NACIMIENTO**
+# 🥚 NACIMIENTO
 
 Los Arakh’vel son principalmente vivíparos.
 
@@ -455,7 +458,7 @@ Esto los diferencia de los mamíferos convencionales.
 
 ---
 
-**🧵 SEDA DE LOS ARAKH’VEL**
+# 🧵 SEDA DE LOS ARAKH’VEL
 
 Los Arakh’vel producen seda, pero en cantidades pequeñas.
 
@@ -479,7 +482,7 @@ Manipulación de armas.
 
 ---
 
-🦷 **ANATOMÍA ARÁCNIDA DE LOS ARAKH’VEL**
+# 🦷 ANATOMÍA ARÁCNIDA DE LOS ARAKH’VEL
 
 En estado normal pueden parecer prácticamente humanos.
 
@@ -505,7 +508,7 @@ Pueden inocular veneno.
 
 ---
 
-☠️ **VENENO**
+# ☠️ VENENO
 
 Los Arakh’rei y Arakh’vel poseen veneno.
 
@@ -516,7 +519,7 @@ Esto convierte sus armas de colmillo en herramientas capaces de producir tanto d
 
 ---
 
-**⚔️ ARMAS DE COLMILLO**
+# ⚔️ ARMAS DE COLMILLO
 
 Los Arakh’vel utilizan armas creadas a partir de los colmillos de Arakh’sol fallecidos.
 
@@ -551,7 +554,7 @@ Para cortar mediante movimientos circulares.
 
 ---
 
-**☠️ SISTEMA DE INYECCIÓN DE VENENO**
+# ☠️ SISTEMA DE INYECCIÓN DE VENENO
 
 El colmillo utilizado como arma puede ser modificado por una Arakh’rei para conservar un sistema interno de conducción.
 
@@ -568,7 +571,7 @@ La seda y la estructura interna del arma permiten conducir y liberar el veneno a
 
 ---
 
-🕸️ **DANZA DE SEDA**
+# 🕸️ DANZA DE SEDA
 
 Los Arakh’vel que utilizan estas armas pueden aprender una disciplina de combate conocida como Danza de Seda.
 
@@ -613,7 +616,7 @@ Visualmente, el combate puede parecer una mezcla entre una danza y una araña mo
 
 ---
 
-👗 **VESTIMENTA**
+# 👗 VESTIMENTA
 
 Los Arakh’vei fabrican gran parte de su ropa mediante seda.
 
@@ -671,7 +674,7 @@ La habilidad para fabricar ropa puede convertirse en una forma de prestigio dent
 
 ---
 
-🌍 **RELACIÓN CON HUMANOS**
+# 🌍 RELACIÓN CON HUMANOS
 
 Los Arakh’vei saben que los humanos son una de las especies más numerosas de Kepler.
 
@@ -705,7 +708,7 @@ Sin embargo, esto cambia radicalmente en las monarquías agresivas.
 
 ---
 
-**🕷️ ARAKH’VEL EN MONARQUÍAS**
+# 🕷️ ARAKH’VEL EN MONARQUÍAS
 
 En las colonias hostiles, los Arakh’vel pueden ser utilizados como:
 
@@ -729,7 +732,7 @@ Por ello, en estas colonias los Arakh’vel pueden ser considerados extremadamen
 
 ---
 
-🦠 **ENFERMEDAD DE LOS ARAKH’VEL**
+# 🦠 ENFERMEDAD DE LOS ARAKH’VEL
 
 Los Arakh’vel pueden ser portadores naturales de una enfermedad que no les afecta.
 
@@ -750,7 +753,7 @@ Esto también explica por qué algunas comunidades humanas desconfían de ellos 
 
 ---
 
-🧬 **MUDA**
+# 🧬 MUDA
 
 Los Arakh’vei conservan una característica inspirada en los artrópodos reales:
 
@@ -777,7 +780,7 @@ La longevidad extrema sería excepcional.
 
 ---
 
-🕷️ **ARAÑA GOLIAT**
+# 🕷️ ARAÑA GOLIAT
 
 La Araña Goliat es una variante extremadamente rara de Arakh’sol.
 
@@ -831,7 +834,7 @@ Su aparición representa que la colonia considera que ya no existe otra alternat
 
 ---
 
-🕷️ **LA GRAN MADRE SEDA**
+# 🕷️ LA GRAN MADRE SEDA
 
 Clasificación
 
@@ -857,7 +860,7 @@ No existe una explicación confirmada.
 
 ---
 
-🌑 **DIMENSIÓN DE LA MADRE SEDA**
+## 🌑 DIMENSIÓN DE LA MADRE SEDA
 
 La Gran Madre Seda posee una dimensión espiritual propia.
 
@@ -885,7 +888,7 @@ Dentro se encuentra la presencia de la Gran Madre Seda.
 
 ---
 
-**🕸️ APARIENCIA DE LA MADRE SEDA**
+## 🕸️ APARIENCIA DE LA MADRE SEDA
 
 La Madre Seda nunca se muestra completamente.
 
@@ -907,7 +910,7 @@ Su verdadera forma permanece oculta dentro del enorme capullo.
 
 ---
 
-🧵 **EL HILO ESPIRITUAL**
+## 🧵 EL HILO ESPIRITUAL
 
 Cada Arakh’vei posee un hilo espiritual conectado a la Madre Seda.
 
@@ -929,7 +932,7 @@ La conexión existe desde el nacimiento.
 
 ---
 
-🚪 **ENTRADA A LA DIMENSIÓN**
+## 🚪 ENTRADA A LA DIMENSIÓN
 
 Un Arakh’vei puede llegar a la dimensión mediante:
 
@@ -949,7 +952,7 @@ No todos tienen la misma facilidad para acceder.
 
 ---
 
-🕸️ **ESTADO DENTRO DE LA DIMENSIÓN**
+## 🕸️ ESTADO DENTRO DE LA DIMENSIÓN
 
 Al entrar en la dimensión, el Arakh’vei aparece sin ropa y sin elementos externos, representando que allí no existen las máscaras sociales.
 
@@ -973,7 +976,7 @@ Solo permanece la identidad del individuo.
 
 ---
 
-🧠 **ARCHIVO ESPIRITUAL**
+## 🧠 ARCHIVO ESPIRITUAL
 
 La red funciona como una memoria colectiva.
 
@@ -1001,7 +1004,7 @@ Por ello, un Arakh’vei muerto no desaparece completamente de la red.
 
 ---
 
-🕸️ **COMUNICACIÓN**
+## 🕸️ COMUNICACIÓN
 
 Los Arakh’vei pueden utilizar la red para comunicarse con:
 
@@ -1023,7 +1026,7 @@ Esto permite que conocimientos desarrollados en una colonia puedan llegar a otra
 
 ---
 
-👑 **CORONACIÓN DE REINAS**
+# 👑 CORONACIÓN DE REINAS
 
 La Madre Seda puede reconocer a una Arakh’rei como digna de convertirse en reina.
 
@@ -1049,7 +1052,7 @@ Una reina reconocida puede recibir una bendición de la Madre Seda.
 
 ---
 
-✨ **BENDICIONES**
+## ✨ BENDICIONES
 
 Las bendiciones pueden otorgar:
 
@@ -1073,7 +1076,7 @@ Estos reconocimientos pueden producir mejoras similares.
 
 ---
 
-⚠️ **PÉRDIDA DEL HILO**
+## ⚠️ PÉRDIDA DEL HILO
 
 Existe la posibilidad de que un Arakh’vei pierda su conexión con la red.
 
@@ -1097,7 +1100,7 @@ Por ello, algunos Arakh’vei consideran la desconexión como una forma de muert
 
 ---
 
-⚖️ **ESTRUCTURA FUNCIONAL**
+# ⚖️ ESTRUCTURA FUNCIONAL
 
 La especie puede resumirse en tres grandes funciones:
 
