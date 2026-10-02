@@ -1,13 +1,9 @@
-
 Las [[Sistema de Conexión Biológica de Kepler#Las Resonancias|Resonancias]] se dividen en diferentes tipos y especializaciones, cada una con características, aplicaciones y niveles de dominio propios. Algunas son accesibles para la mayoría de los keplerianos, mientras que otras requieren conocimientos, experiencia o condiciones específicas para poder desarrollarse.
 
 En esta página se registran las diferentes categorías de Resonancia conocidas, sus colores característicos, sus principales aplicaciones, sus niveles de dominio y las posibles combinaciones que pueden surgir entre ellas. También se explicará cómo un kepleriano puede especializarse en una Resonancia y cómo esa especialización puede modificar la eficiencia con la que utiliza su Savia.
 
-- [[Sistema de Resonancias#⚫ Resonancia Física|Resonancia Física]]
-- [[Sistema de Resonancias#⚪ Resonancia Pura|Resonancia Pura]]
-- [[Sistema de Resonancias#🔴 Resonancia Ígnea / Piro|Resonancia Ígnea]]
-    - [[Sistema de Resonancias#🟠 Resonancia Lumínica|Resonancia Lumínica]]
-- 
+```toc
+```
 
 ---
 
