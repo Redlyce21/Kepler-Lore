@@ -1,4 +1,5 @@
-
+```toc
+```
 
 El sistema biológico de Kepler es una red que conecta al propio planeta con los organismos que poseen la capacidad de interactuar con él. Su origen se encuentra en el interior del planeta, donde existe una estructura gigantesca conocida como el Árbol Núcleo, y se extiende hasta los habitantes de Kepler mediante la Savia, las Nervaduras y las Resonancias.
 
