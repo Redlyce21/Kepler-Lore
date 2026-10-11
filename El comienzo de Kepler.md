@@ -147,3 +147,48 @@ Y sabían, por encima de todo, que aquella decisión, tomada entre despachos, co
 Desde las ventanas de las Arcas, la Tierra fue convirtiéndose lentamente en un punto azul cada vez más pequeño, perdido entre miles de estrellas indiferentes, dentro de ellas, la humanidad celebraba el nacimiento de su futuro y fuera de ellas, la humanidad que quedaba atrás observaba cómo su pasado se apagaba, estrella tras estrella, noche tras noche.
 
 Las Arcas viajaban hacia un nuevo paraíso, cargadas de esperanza y de culpa a partes iguales. La Tierra quedaba atrás, convertida para siempre en el último hogar de una humanidad que, mucho antes de que la Nube de Veyra terminara de cerrarse, ya había sido abandonada por los suyos. 
+
+___
+# Parte II — La travesía hacia Kepler
+
+## La humanidad lejos de nuestro hogar
+
+Tras abandonar la órbita terrestre, las tres Arcas continuaron su viaje hacia Kepler, dejando atrás y sin la posibilidad de retorno o cualquier esperanza de comunicación con la Tierra. Durante la travesía, sus habitantes debieron adaptarse a una existencia completamente dependiente de los sistemas de las naves, siendo ahora un mundo cerrado sobre sí mismo donde el mantenimiento de los recursos, la convivencia entre extraños y la estabilidad social dejaron de ser ideales abstractos para convertirse en condiciones indispensables para seguir con vida atraves del viaje que tomaron.  
+
+A pesar de haber sido construidas con los mismos objetivos y bajo los mismos planos, Abya Yala, Atlas y Amaterasu atravesaron dificultades muy distintas a lo largo del viaje, acontecimientos que terminarían marcando para siempre la historia de sus respectivas poblaciones, como cicatrices propias de cada nave.
+
+## Abya Yala — El incidente de contención
+
+Durante la travesía, Abya Yala sufrió una emergencia biológica cuando un organismo desconocido comenzó a propagarse, con una rapidez alarmante, por uno de sus sectores de mantenimiento. Las primeras desapariciones y los daños registrados en las instalaciones no tardaron en obligar a activar los protocolos de aislamiento, sellando las entradas y salidas de varias secciones enteras para impedir que la amenaza terminara alcanzando las zonas habitadas de la nave.
+
+Durante semanas que debieron sentirse interminables, los equipos de seguridad y mantenimiento trabajaron sin descanso para contener el incidente, mientras los habitantes de los sectores afectados permanecían incomunicados, sin saber con certeza qué ocurría al otro lado de las puertas selladas. La amenaza fue finalmente neutralizada, aunque algunas instalaciones quedaron clausuradas de manera permanente, como advertencias silenciosas de lo que había estado a punto de suceder. El incidente impulsó, a partir de entonces, importantes reformas en los protocolos de seguridad de la nave, y dejó una huella profunda y duradera en la memoria colectiva de Abya Yala.
+
+## Atlas — La guerra civil
+
+En Atlas, las tensiones surgieron de la convivencia forzada entre poblaciones con tradiciones, lenguas e identidades nacionales muy distintas, un roce constante que se vio agravado por las disputas sobre la distribución de los recursos y la representación política dentro de la nave. Con el paso del tiempo, distintos movimientos comenzaron a cuestionar abiertamente la autoridad de las instituciones establecidas antes del Éxodo, exigiendo una administración que representara de verdad a todos los habitantes de Atlas, y no solo a quienes habían llegado con más poder desde la Tierra.
+
+Los desacuerdos, alimentados por el resentimiento acumulado, terminaron convirtiéndose en enfrentamientos armados entre facciones, desencadenando una guerra civil que comprometió la estabilidad de numerosos sectores de la nave. El peligro constante de dañar los sistemas esenciales de Atlas, sumado al agotamiento progresivo de los recursos y a las crecientes pérdidas humanas, obligó finalmente a las partes a negociar un acuerdo que nadie, años atrás, habría creído posible. Como consecuencia, se reorganizó por completo la estructura política de la nave y se estableció una administración común, desligada deliberadamente de las antiguas divisiones territoriales que habían quedado atrás, en la Tierra.
+
+## Amaterasu — La crisis demográfica
+
+Amaterasu, la mayor de las tres Arcas, enfrentó dificultades propias de administrar a una población descomunal. Los estrictos controles demográficos establecidos al comienzo del viaje buscaban garantizar, con una precisión casi matemática, que los recursos disponibles alcanzaran hasta llegar a Kepler. Sin embargo, el envejecimiento inevitable de los primeros pasajeros, los accidentes imprevistos y la disminución gradual de los nacimientos terminaron alterando, poco a poco, las proyecciones originales que tanto esfuerzo habían costado calcular.
+
+Ante el riesgo real de una reducción demográfica prolongada que pudiera comprometer el futuro mismo de la misión, las autoridades de Amaterasu modificaron sus políticas, promoviendo activamente la formación de nuevas familias y recurriendo a tecnologías reproductivas para preservar la diversidad genética de la población. Estas medidas, aplicadas con cautela pero sin demora, permitieron estabilizar gradualmente la población y garantizar la continuidad de las generaciones que, algún día, llegarían a habitar Kepler.
+
+## El nacimiento de nuevas culturas
+
+A medida que transcurría el viaje, año tras año, las generaciones nacidas dentro de las Arcas comenzaron a desarrollar identidades muy distintas de las de sus antepasados. Para muchos de ellos, la Tierra dejó de representar un hogar perdido y añorado, y pasó a convertirse en algo mucho más abstracto: un lugar conocido únicamente a través de archivos, relatos familiares transmitidos de generación en generación y registros históricos cada vez más lejanos.
+
+Las tradiciones que alguna vez habían pertenecido a países y continentes separados por océanos comenzaron a entrelazarse dentro del espacio cerrado de cada nave. Surgieron así nuevas celebraciones, expresiones lingüísticas, costumbres y formas de convivencia, mientras las antiguas identidades nacionales iban perdiendo, progresivamente, su peso frente a un sentimiento mucho más inmediato: el de pertenecer, ante todo, a una misma Arca.
+
+Abya Yala, Atlas y Amaterasu desarrollaron así sociedades propias, nacidas de la fusión de innumerables culturas terrestres que, en la Tierra, jamás se habrían mezclado de esa manera. Aunque las diferencias entre sus habitantes nunca llegaron a desaparecer por completo, las experiencias compartidas durante la travesía —el miedo, la pérdida, la supervivencia— terminaron forjando una identidad colectiva mucho más fuerte que cualquier frontera heredada.
+
+## El horizonte de Kepler
+
+Con los principales conflictos ya superados y las sociedades de las tres Arcas relativamente estabilizadas, comenzaron por fin los preparativos para la última etapa del viaje. Se revisaron minuciosamente los sistemas de descenso, los equipos de exploración y los protocolos destinados al establecimiento de los primeros asentamientos humanos sobre la superficie de Kepler, un trabajo que devolvió a muchos pasajeros una sensación de propósito que llevaban años sin sentir.
+
+Para entonces, el planeta ya podía distinguirse a lo lejos, creciendo lentamente, casi con timidez, en los sistemas de observación de las naves conforme disminuía la distancia que todavía las separaba de su destino final.
+
+La noticia despertó una mezcla difícil de describir: entusiasmo, incertidumbre y un temor que nadie se atrevía del todo a nombrar en voz alta. Los descendientes de quienes habían abandonado la Tierra se preparaban para conocer un mundo que jamás habían pisado y que, hasta entonces, solo había existido como promesa, mientras los últimos supervivientes de aquella primera generación —cada vez más escasos— contemplaban, con una mezcla de asombro y agotamiento, la posibilidad de ver cumplida al fin la promesa que había justificado el Éxodo entero.
+
+Después de una travesía marcada por conflictos, pérdidas y profundas transformaciones, la humanidad finalmente se aproximaba a Kepler, convencida —o quizás solo necesitada de creerlo— de que allí, por fin, encontraría la oportunidad de comenzar de nuevo.
