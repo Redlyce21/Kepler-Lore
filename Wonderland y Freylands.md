@@ -1,1 +1,3 @@
 Aún en proceso, tengo que escribir aquí a detalle el culo de anillos que hice y que estan en mi mente jaja salu2
+
+![[image0-6.gif]]
